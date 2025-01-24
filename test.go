@@ -1,4 +1,4 @@
-package go_modules_tags
+package main
 
 // Test
 func TestModules() string {
